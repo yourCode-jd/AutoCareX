@@ -7,13 +7,11 @@ A sleek and responsive landing page for a premium car service center, built to s
 
 ## 🚀 Github Demo
 
-[View Here](https://yourcode-jd.github.io/carServices/)
+[View Here](https://yourcode-jd.github.io/AutoCareX/)
 
 ---
 
 ## 🖼️ Screenshots
-
-(Add your screenshots below)
 
 ![Desktop View](./images/AutoCareX_desktop.png)  
 ![Responsive View](./images/AutoCareX_mobile.png)
